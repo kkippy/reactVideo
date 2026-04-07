@@ -41,6 +41,17 @@ npx remotion upgrade
 
 Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
 
+## Text-driven lesson workflow
+
+This repo now includes a reusable lesson-video pipeline for programming explainers.
+
+- Workflow guide: `docs/prompt-to-video.md`
+- Handoff guide: `docs/project-handoff.md`
+- Request template: `docs/templates/video-request-template.md`
+- Design spec: `docs/superpowers/specs/2026-04-07-promise-video-design.md`
+
+The first sample composition is `PromiseLesson`.
+
 ## Help
 
 We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
